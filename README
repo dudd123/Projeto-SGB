@@ -1,0 +1,2 @@
+git config --global user.name "José Vitor Sargentini"
+git config --global user.email "vitor.sargentini@aluno.ifsp.edu.br"

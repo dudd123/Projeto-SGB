@@ -1,0 +1,9 @@
+<config>
+    <database url="jdbc:mysql://localhost:3306/sgb_josevitor" user="root" password="root">
+    </database>
+
+    <!--<database url="jdbc:mysql://127.0.0.1:3307/sgcm_aq301665x" user="root" password="root"/>-->
+	<!--<database url="jdbc:mysql://localhost:3306/sgcm_aq301665x" user="root" password="root"/>-->
+    <!--<database url="jdbc:mysql://sql.freedb.tech:3306/freedb_sgcm_aq301665x" user="freedb_vitorsargentini" password="nZ?#q4!7deb#%tK"/>-->
+
+</config>
